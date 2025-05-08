@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "collection": "Bunnies",
+    "purchased": false,
+    "tx": null,
+    "owner": null,
+    "name": "Cottontail Chaos",
+    "file": "https://exeedme-assets.s3.eu-west-3.amazonaws.com/cottontail-chaos.png",
+    "price": 15
+  },
+  {
+    "id": 2,
+    "collection": "Bunnies",
+    "purchased": false,
+    "tx": null,
+    "owner": null,
+    "name": "Bunny Hop",
+    "file": "https://exeedme-assets.s3.eu-west-3.amazonaws.com/bunny-hop.png",
+    "price": 1.7
+  },
+  {
+    "id": 3,
+    "collection": "Bunnies",
+    "purchased": false,
+    "tx": null,
+    "owner": null,
+    "name": "Carrot Carbine",
+    "file": "https://exeedme-assets.s3.eu-west-3.amazonaws.com/carrot-carbine.png",
+    "price": 5
+  },
+  {
+    "id": 4,
+    "collection": "Bunnies",
+    "purchased": false,
+    "tx": null,
+    "owner": null,
+    "name": "Eggsecution",
+    "file": "https://exeedme-assets.s3.eu-west-3.amazonaws.com/eggsecution.png",
+    "price": 2.5
+  },
+  {
+    "id": 5,
+    "collection": "Bunnies",
+    "purchased": false,
+    "tx": null,
+    "owner": null,
+    "name": "Fuzzy Fatality",
+    "file": "https://exeedme-assets.s3.eu-west-3.amazonaws.com/fuzzy-fatality.png",
+    "price": 2
+  },
+  {
+    "id": 6,
+    "collection": "Bunnies",
+    "purchased": false,
+    "tx": null,
+    "owner": null,
+    "name": "Hare Trigger",
+    "file": "https://exeedme-assets.s3.eu-west-3.amazonaws.com/hare-trigger.png",
+    "price": 0.8
+  },
+  {
+    "id": 7,
+    "collection": "Bunnies",
+    "purchased": false,
+    "tx": null,
+    "owner": null,
+    "name": "Feral Fluff",
+    "file": "https://exeedme-assets.s3.eu-west-3.amazonaws.com/feral-fluffy.png",
+    "price": 1.5
+  },
+  {
+    "id": 8,
+    "collection": "Bunnies",
+    "purchased": false,
+    "tx": null,
+    "owner": null,
+    "name": "Sugar Rush",
+    "file": "https://exeedme-assets.s3.eu-west-3.amazonaws.com/sugar-rush.png",
+    "price": 3
+  },
+  {
+    "id": 9,
+    "collection": "Bunnies",
+    "purchased": false,
+    "tx": null,
+    "owner": null,
+    "name": "Fluffy Fury",
+    "file": "https://exeedme-assets.s3.eu-west-3.amazonaws.com/fluffy-fury.png",
+    "price": 0.5
+  },
+  {
+    "id": 10,
+    "collection": "Bunnies",
+    "purchased": false,
+    "tx": null,
+    "owner": null,
+    "name": "Rogue Rabbit",
+    "file": "https://exeedme-assets.s3.eu-west-3.amazonaws.com/rogue-rabbit.png",
+    "price": 10
+  }
+]
