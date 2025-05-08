@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="server" type="NodeJSConfigurationType" singleton="false" path-to-node="wsl://Ubuntu-24.04@/home/saintbr/.nvm/versions/node/v23.8.0/bin/node" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/backend">
+    <envs pass-parent-envs="false" />
+    <method v="2" />
+  </configuration>
+</component>

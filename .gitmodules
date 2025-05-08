@@ -1,0 +1,18 @@
+[submodule "contracts/nftland/lib/forge-std"]
+	path = contracts/nftland/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "contracts/nftland/lib/openzeppelin-contracts"]
+	path = contracts/nftland/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "contracts/nft/lib/forge-std"]
+	path = contracts/nft/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "contracts/nft/lib/openzeppelin-contracts"]
+	path = contracts/nft/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "contracts/exeed/lib/forge-std"]
+	path = contracts/exeed/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "contracts/exeed/lib/openzeppelin-contracts"]
+	path = contracts/exeed/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
