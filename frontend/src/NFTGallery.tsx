@@ -7,7 +7,7 @@ export default function NFTGallery() {
     const { buy, isPending, isConfirmed, isConfirming, error, hash } = useBuyNFT();
 
     useEffect(() => {
-        fetch("http://localhost:3001/nfts")
+        fetch("https://nftmarketplace-lq99.onrender.com/nfts")
             .then((res) => res.json())
             .then((data) => setNfts(data))
             .catch((err) => console.error("Erro ao carregar NFTs", err));
