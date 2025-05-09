@@ -12,12 +12,13 @@
     "@types/jest": "^29.5.12",
     "@types/node": "^20.14.8",
     "@types/react": "^19.0.6",
+    "@wagmi/core": "^2.17.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1",
     "typescript": "5.5.4",
     "util": "0.12.5",
-    "viem": "2.23.12",
+    "viem": "^2.29.1",
     "wagmi": "^2.14.16"
   },
   "scripts": {
