@@ -2,14 +2,25 @@ import { useEffect, useState } from "react";
 import { useBuyNFT } from "./hooks/useBuyNFT";
 import {BaseError} from "viem";
 
+type NFT = {
+    "id": string;
+    "collection": string;
+    "purchased": boolean;
+    "tx": string;
+    "owner": string;
+    "name": string;
+    "file": string;
+    "price": bigint;
+};
+
 export default function NFTGallery() {
-    const [nfts, setNfts] = useState([]);
+    const [nfts, setNfts] = useState<NFT[]>([]);
     const { buy, isPending, isConfirmed, isConfirming, error, hash } = useBuyNFT();
 
     useEffect(() => {
         fetch("https://nftmarketplace-lq99.onrender.com/nfts")
             .then((res) => res.json())
-            .then((data) => setNfts(data))
+            .then((data: NFT[]) => setNfts(data))
             .catch((err) => console.error("Erro ao carregar NFTs", err));
     }, []);
 
